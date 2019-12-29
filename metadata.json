@@ -1,0 +1,9 @@
+{
+  "name": "Build status",
+  "description": "Show build status in taskbar",
+  "uuid": "build-status@imachug.gmail.com",
+  "shell-version": [
+    "3.34"
+  ],
+  "version": 1
+}
